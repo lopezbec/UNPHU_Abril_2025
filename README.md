@@ -1,4 +1,4 @@
-# Pagina de Talleres UNPHU 2023, Semana Dominicana de Ciencia y Tecnología  
+# Pagina de Conferencia UNPHU Abril 2025: *De Neuronas Artificiales a ChatGPT: Entendiento los fundamentos de la IA*
 
 <div class="figure">
 <img src="https://github.com/lopezbec/UNPHU_2023_Talleres/blob/main/Semana%20cienti%CC%81fica%202023%20(3).jpg" width="50%"  class="center"/>
