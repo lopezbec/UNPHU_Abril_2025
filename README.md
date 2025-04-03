@@ -15,7 +15,7 @@ ___________________________________________________
 
 <table align="left">
   <td>
-    <a href="https://colab.research.google.com/github/lopezbec/UNPHU_Abril_2025/blob/main/GPT_2_Demo.ipynb.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    <a href="https://colab.research.google.com/github/lopezbec/UNPHU_Abril_2025/blob/main/GPT_2_Demo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
    <td>
   </table>
