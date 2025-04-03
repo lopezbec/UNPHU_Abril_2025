@@ -11,6 +11,16 @@ ___________________________________________________
 
 ## Taller:  Introducción a la Programación con Python ([diapositivas](https://github.com/lopezbec/UNPHU_2023_Talleres/blob/main/Taller%20Python%206_6_23.pdf))
 
+# GPT-2 DEMO
+
+<table align="left">
+  <td>
+    <a href="https://colab.research.google.com/github/lopezbec/UNPHU_Abril_2025/blob/main/GPT_2_Demo.ipynb.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  </td>
+   <td>
+  </table>
+<br><br></br>
+
 # Yolov5 Simple Colab
 
 <table align="left">
