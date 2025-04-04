@@ -7,7 +7,7 @@
 
 
 
-## Conferencia: ([diapositivas](https://github.com/lopezbec/UNPHU_Abril_2025/blob/main/Taller%20Python%206_6_23.pdf))
+## Conferencia: ([diapositivas](https://github.com/lopezbec/UNPHU_Abril_2025/blob/main/Taller_UNPHU_4_11_25.pdf))
 ___________________________________________________
 
 # Yolov5 Simple Colab
