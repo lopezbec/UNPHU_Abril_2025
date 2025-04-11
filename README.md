@@ -7,7 +7,12 @@
 
 
 
-## Conferencia: ([diapositivas](https://github.com/lopezbec/UNPHU_Abril_2025/blob/main/Taller_UNPHU_4_11_25.pdf))
+## Conferencia: 
+([diapositivas PDF](https://github.com/lopezbec/UNPHU_Abril_2025/blob/main/Taller_UNPHU_4_11_25.pdf))
+([diapositivas G.Slides](https://docs.google.com/presentation/d/1nLX7aud8jNEqy1WmkZCOP97fMvVFBEsX/edit?usp=sharing&ouid=110195186151974218200&rtpof=true&sd=true
+))
+([diapositivas MS Power Point](https://github.com/lopezbec/UNPHU_Abril_2025/blob/main/Taller_UNPHU_4_11_25.pptx))
+
 ___________________________________________________
 
 # Yolov5 Simple Colab
